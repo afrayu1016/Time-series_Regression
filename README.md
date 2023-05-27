@@ -19,10 +19,10 @@ This dataset consists the air quality data in Hsinchu area in 2021. Use time ser
 ## Dataset 
 * _ 2021.xls
 * Dataset columns:
-  > 測站: place
-  > 日期: detection time
-  > 測項: detection item
-  > 0~23: hour
+    - 測站: place
+    - 日期: detection time
+    - 測項: detection item
+    - 0~23: hour
 ## Data preprocessing
 * Extract data from October to December
 * Split into training data : October and November, testing data: December
